@@ -1,13 +1,3 @@
-import numpy
-import scipy
-import scipy.io.arff as sa
-import sys
-
-
-
-
-
-
 
 import sys
 import scipy.io.arff as sia
